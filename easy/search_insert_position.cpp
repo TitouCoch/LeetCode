@@ -1,4 +1,6 @@
-//command to execute : g++ -std=c++11 file.cpp  -o file
+//LeetCode : Challenge Search Insert Position
+
+//command : g++ -std=c++11 file.cpp  -o file then ./file
 
 #include <iostream>
 #include <vector>
